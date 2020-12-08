@@ -1,0 +1,16 @@
+/home/vorobey/pm-academy/1hw/level-1/task-1/bin/Debug/net5.0/task-1
+/home/vorobey/pm-academy/1hw/level-1/task-1/bin/Debug/net5.0/task-1.deps.json
+/home/vorobey/pm-academy/1hw/level-1/task-1/bin/Debug/net5.0/task-1.runtimeconfig.json
+/home/vorobey/pm-academy/1hw/level-1/task-1/bin/Debug/net5.0/task-1.runtimeconfig.dev.json
+/home/vorobey/pm-academy/1hw/level-1/task-1/bin/Debug/net5.0/task-1.dll
+/home/vorobey/pm-academy/1hw/level-1/task-1/bin/Debug/net5.0/ref/task-1.dll
+/home/vorobey/pm-academy/1hw/level-1/task-1/bin/Debug/net5.0/task-1.pdb
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.csprojAssemblyReference.cache
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.AssemblyInfoInputs.cache
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.AssemblyInfo.cs
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.csproj.CoreCompileInputs.cache
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.dll
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/ref/task-1.dll
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.pdb
+/home/vorobey/pm-academy/1hw/level-1/task-1/obj/Debug/net5.0/task-1.genruntimeconfig.cache
