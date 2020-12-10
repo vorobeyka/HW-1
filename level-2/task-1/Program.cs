@@ -6,7 +6,7 @@ namespace task_1
     class Program
     {
         /*
-        //I don't wanna do much much 'if' 'else' or 'switch' conditions for the game result,
+        //I don't wanna do much-much 'if' 'else' or 'switch' conditions for the game result,
         //that's why I created this matrix with all game events.
         //Please, enjoy my program.:)
         */
@@ -72,24 +72,19 @@ namespace task_1
         {
             int i = (int) userCommand;
             int j = (int) computerCommand;
-            string info = $"Player -> {commands[i]}\nComputer -> {commands[j]}\n";
+            string tmp;
 
             Console.WriteLine($"Computer -> {commands[(int) computerCommand]}");
             switch (gameMatrix[i][j])
             {
-                case 1:
-                    Console.WriteLine("You won");
-                    statistics.Add(info + "Player WON!");
+                case 1: Console.WriteLine(tmp = "player won!");
                 break;
-                case -1:
-                    Console.WriteLine("You lose");
-                    statistics.Add(info + "Computer WON!");
+                case -1: Console.WriteLine(tmp = "player lose!");
                 break;
-                default:
-                    Console.WriteLine("Draw");
-                    statistics.Add(info + "DRAW!");
+                default: Console.WriteLine(tmp = "draw!");
                 break;
             }
+            statistics.Add($"Player -> {commands[i]}\nComputer -> {commands[j]}\n" + tmp);
             return 0;
         }
 
@@ -112,8 +107,7 @@ namespace task_1
 
         static void Main(string[] args)
         {
-            Console.WriteLine("The game 'Stone-Scissors-Paper'.");
-            Console.WriteLine("The program was written by Andrey Basystyi.");
+            Console.WriteLine("The game 'Stone-Scissors-Paper' by Andrey Basystyi.");
             Console.WriteLine("Rules: you need to enter one of these command: 'paper', 'stone', 'scissors', 'exit'");
             Console.WriteLine("The computer offer its version at random.");
             Console.WriteLine("stone > scissors; scissors > paper; paper > stone.");
