@@ -118,7 +118,7 @@ namespace task_3
         static int Main(string[] args)
         {
             if (args.Length > 0) return CommandMode(args);
-            Console.WriteLine("Task 2.3.Array statistics by Andrey Basystyi.");
+            Console.WriteLine("Task 2.3. Array statistics by Andrey Basystyi.");
             Console.WriteLine("This program will help you to sort array and find:");
             Console.WriteLine("-minimum and maximum values\n-sum of all elements\n-average\n-root mean square.\n");
             return DialogMode();
