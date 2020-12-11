@@ -1,0 +1,16 @@
+/home/vorobey/pm-academy/1hw/level-3/bin/Debug/net5.0/level-3
+/home/vorobey/pm-academy/1hw/level-3/bin/Debug/net5.0/level-3.deps.json
+/home/vorobey/pm-academy/1hw/level-3/bin/Debug/net5.0/level-3.runtimeconfig.json
+/home/vorobey/pm-academy/1hw/level-3/bin/Debug/net5.0/level-3.runtimeconfig.dev.json
+/home/vorobey/pm-academy/1hw/level-3/bin/Debug/net5.0/level-3.dll
+/home/vorobey/pm-academy/1hw/level-3/bin/Debug/net5.0/ref/level-3.dll
+/home/vorobey/pm-academy/1hw/level-3/bin/Debug/net5.0/level-3.pdb
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.csprojAssemblyReference.cache
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.AssemblyInfoInputs.cache
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.AssemblyInfo.cs
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.csproj.CoreCompileInputs.cache
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.dll
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/ref/level-3.dll
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.pdb
+/home/vorobey/pm-academy/1hw/level-3/obj/Debug/net5.0/level-3.genruntimeconfig.cache
